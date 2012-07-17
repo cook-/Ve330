@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=latex 2012.6.6)  17 JUL 2012 21:00
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=latex 2012.6.6)  17 JUL 2012 22:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -130,18 +130,58 @@ LaTeX Font Info:    ... okay on input line 7.
  [1
 
 ] [1]
-Underfull \hbox (badness 10000) in paragraph at lines 75--79
+Underfull \hbox (badness 10000) in paragraph at lines 75--90
 
  []
 
-[2] (./report.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--90
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+
+ []
+
+[3] (./report.aux) ) 
 Here is how much of TeX's memory you used:
  912 strings out of 493611
  10302 string characters out of 3142449
- 64032 words of memory out of 3000000
+ 65032 words of memory out of 3000000
  4275 multiletter control sequences out of 15000+200000
  9709 words of font info for 35 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 27i,7n,20p,306b,193s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,7n,20p,648b,193s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on report.dvi (3 pages, 5092 bytes).
+Output written on report.dvi (4 pages, 7212 bytes).

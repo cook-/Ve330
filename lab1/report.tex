@@ -31,8 +31,8 @@
 \subsection*{Measured Data}
 \subsubsection{Length of coaxial cables}
 Cable \#1 = 61.3cm\\
-Cable \#2 = 102.1cm\\
-Cable \#3 = 33.5cm\\
+Cable \#2 = 33.5cm\\
+Cable \#3 = 102.1cm\\
 Cable \#4 = 61.3cm\\
 (Note: cable \#1 is directly connected to the VNA, cable \#2\&3 are between the two "Tee"s and cable \#4 is connected to the third arm of the second "Tee".)
 
@@ -73,11 +73,23 @@ Network & Fault \#6 & Fault \#7 & Fault \#8 & Fault \#9 & Fault \#10 \\
 
 \subsection*{Comparisons\& Comments on the Results}
 To begin with, when analyzing the data in the table, we should first divide them by 2 to indicate the fault location, since they represent the total distance for a wave to travel forward and backward.\\
+\\
+Obviously, fault \#1 for the five networks all occurs at the connetor between the VNA and cable. Then let us see the remaining faults.\\
+\\
+Here gives a method to find out where the faults occurs at the network: find a path to any one junction point, calculate the total cable length along the path, multiply the result by two and compare with the data in table, then we can get the corresponding fault.\\
+\\
 For network \#1, since the network is terminated with the matched load, there are only two faults: one at the connector between the VNA and cable(location is 0), another at?\\
-For networl \#2, since the network is terminated with the short termination, so reflection will occure at at the termination. Then, fault \#1 represents the reflection at the first connector, fault \#2 at the termination and fault \#3 results from the second refelction from the termination.\\
+\\
+For networl \#2, since the network is terminated with the short termination, so reflection will occur at the termination. Then, fault \#1 occurs at the first connector, fault \#2 at the termination and fault \#3 results from the second refelction from the termination.\\
+\\
 For network \#3, \\
-\subsection*{What I Learned from This Lab}
+\\
+For network \#4-matched, fault \#2 occurs at the "Tee", fault \#3 at the end of cable \#2, fault \#5 at the end of cable \#3 and the rest are due to multiple reflection. We also notice that there is no fault at the termination of the network.\\
+\\
+For network \#4-short, fault \#2 occurs at the "Tee", fault \#3 at the end of cable \#2, fault \#5 at the end of cable \#3, fault \#9 occurs at the termination of the network, and the rest are due to multiple reflection.\\
 
+\subsection*{What I Learned from This Lab}
+From view of the VNA, it only measures the time for a wave that travelling forward and reflected backward, the distance from the wave generator to the fault location can calculated if we know the frequency and \(\varepsilon_r\) of the cable. Based on this principle, we can apply VNA to detecting the location where a transmission line has some problems. On the other hand, using VNA, we can also measure the impedance of a transmission line. We connect VNA at on end of the line and a load with varying impedance at the other end, once VNA detects no refelction, then the impedance of the line is equal to the impedance of the load.\\
 
 
 
