@@ -118,4 +118,35 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
-LaTeX Fon
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+ [1
+
+] [1
+
+] [2
+
+]
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.40 ... \#5 & Fault \#6 & Fault \#7 & Fault \#8 &
+                                                   Fault \#9 \\
+? x
+ 
+Here is how much of TeX's memory you used:
+ 909 strings out of 493611
+ 10285 string characters out of 3142449
+ 61032 words of memory out of 3000000
+ 4275 multiletter control sequences out of 15000+200000
+ 10007 words of font info for 36 fonts, out of 3000000 for 9000
+ 831 hyphenation exceptions out of 8191
+ 27i,7n,20p,223b,189s stack positions out of 5000i,500n,10000p,200000b,50000s
+Output written on report.dvi (3 pages, 736 bytes).
