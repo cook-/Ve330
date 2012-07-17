@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=latex 2012.6.6)  17 JUL 2012 18:42
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=latex 2012.6.6)  17 JUL 2012 18:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -114,113 +114,17 @@ LaTeX Font Info:    ... okay on input line 5.
 ] [2
 
 ]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.31 Network \#4-matched = \infty
-                                 
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.33 \subsubsection
-                   *{Fault location}
-? 
 ! Undefined control sequence.
-l.36 \toprule
+l.38 \toprule
              
-? 
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.37 ... \#5 & Fault \#6 & Fault \#7 & Fault \#8 &
-                                                   Fault \#9 \\
-? 
-! Undefined control sequence.
-<recently read> \midrule 
-                         
-l.38 \midrule
-             
-? 
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.39 \#1 & 0 & 1.15992m & / & / & / & / & / & / &
-                                                  / \\
-? 
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.40 ...& 1.25022m & 2.54823 & / & / & / & / & / &
-                                                   / \\
-? 
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.41 \section
-             *{Comparisons\& Comments on the Results}
-? 
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.41 \section
-             *{Comparisons\& Comments on the Results}
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.41 ...on*{Comparisons\& Comments on the Results}
-                                                  
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.41 ...on*{Comparisons\& Comments on the Results}
-                                                  
-? 
-! Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.41 ...on*{Comparisons\& Comments on the Results}
-                                                  
-? 
-! Missing { inserted.
-<inserted text> 
-                {
-l.41 ...on*{Comparisons\& Comments on the Results}
-                                                  
-? 
-
-! LaTeX Error: \begin{tabular} on input line 35 ended by \end{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.54 \end{document}
-                   
-? 
-! Interruption.
-\GenericError  ...                                
-                                                  \endgroup 
-l.54 \end{document}
-                   
 ? x
  
 Here is how much of TeX's memory you used:
- 853 strings out of 493611
- 9528 string characters out of 3142449
- 61510 words of memory out of 3000000
- 4222 multiletter control sequences out of 15000+200000
- 10315 words of font info for 37 fonts, out of 3000000 for 9000
+ 850 strings out of 493611
+ 9497 string characters out of 3142449
+ 60510 words of memory out of 3000000
+ 4220 multiletter control sequences out of 15000+200000
+ 10007 words of font info for 36 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 27i,8n,20p,227b,229s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,6n,20p,227b,179s stack positions out of 5000i,500n,10000p,200000b,50000s
 Output written on report.dvi (3 pages, 736 bytes).
