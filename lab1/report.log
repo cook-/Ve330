@@ -129,19 +129,19 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
  [1
 
-]
-! Misplaced alignment tab character &.
-l.72 ... directly connected to the VNA, cable \#2&
-                                                  3 are between the two "Tee...
+] [1]
+Underfull \hbox (badness 10000) in paragraph at lines 75--79
 
-? x
- 
+ []
+
+[2] (./report.aux) ) 
 Here is how much of TeX's memory you used:
- 909 strings out of 493611
- 10274 string characters out of 3142449
+ 912 strings out of 493611
+ 10302 string characters out of 3142449
  65032 words of memory out of 3000000
- 4274 multiletter control sequences out of 15000+200000
+ 4275 multiletter control sequences out of 15000+200000
  9709 words of font info for 35 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 27i,7n,20p,223b,193s stack positions out of 5000i,500n,10000p,200000b,50000s
-Output written on report.dvi (1 page, 364 bytes).
+ 27i,7n,20p,306b,193s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on report.dvi (3 pages, 5088 bytes).
