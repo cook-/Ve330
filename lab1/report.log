@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=latex 2012.6.6)  17 JUL 2012 19:44
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=latex 2012.6.6)  17 JUL 2012 20:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -129,14 +129,19 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
  [1
 
-] [1] [2] (./report.aux) ) 
+]
+! Misplaced alignment tab character &.
+l.72 ... directly connected to the VNA, cable \#2&
+                                                  3 are between the two "Tee...
+
+? x
+ 
 Here is how much of TeX's memory you used:
- 911 strings out of 493611
- 10296 string characters out of 3142449
+ 909 strings out of 493611
+ 10274 string characters out of 3142449
  65032 words of memory out of 3000000
  4274 multiletter control sequences out of 15000+200000
  9709 words of font info for 35 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  27i,7n,20p,223b,193s stack positions out of 5000i,500n,10000p,200000b,50000s
-
-Output written on report.dvi (3 pages, 3780 bytes).
+Output written on report.dvi (1 page, 364 bytes).
