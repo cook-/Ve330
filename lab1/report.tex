@@ -20,13 +20,14 @@
 1. Carry out one port calibration.\\
 2. Change the VNA to time domain.\\
 3. Set Velocity Factore to 0.85.\\
-4. Add a tested cable to calibrated system. Connect Load to the cable, and observe the peak value in time domain by adding a marker.\\
+4. Add a tested cable to calibrated system. Connect Load to the cable, and observe the peak value in time domain by adding a marker.
 5. Change the Load to Short, record the peak value.
 \subsection*{PartB: Two Fault in transmission line}
 1. Attach an N-type coaxial cable to channel 1 of the VNA. Attach a "Tee" to the end of the cable. Attach a coaxial cable to each of the arms of the "Tee". Leave the ends of the coaxial cables unterminated.\\
 2. Record the number of faults and the position of each fault.\\
 3. Attach the arms of a second "Tee" between the ends of the two coaxial cables. Attach the other coaxial cable to the third arm od the second "Tee".\\
-
+4. Terminate the end of the network with the matched load. Record the number of faults and the position of each fault.\\
+5. Remove the matched load and terminate the network with the short termination. Record the number of faults and the position of each fault.
 \section*{Measured Data}
 \subsection*{Number of faults}
 Network \#1 = 2\\
@@ -44,7 +45,7 @@ Network & Fault \#1 & Fault \#2 & Fault \#3 & Fault \#4 & Fault \#5 \\
 \#2 & 0 & 1.25022m & 2.54823m & / & / \\
 \#3 & 0 & 1.21343m & 1.93665m & 2.66715m & 3.38915m \\
 \#4-matchaed & 0 & 1.21465m & 1.97063m & 2.90913m & 3.66096m \\
-\#4-short & 0 & 1.21485m & 1.96214m & 2.90913 & 3.32120m \\
+\#4-short & 0 & 1.21485m & 1.96214m & 2.90913m & 3.32120m \\
 \bottomrule
 \end{tabular}
 \end{table}
