@@ -141,19 +141,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--37
 
  []
 
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.41 ... \#1 & Fault \#2 & Fault \#3 & Fault \#4 &
-                                                   Fault \#5 \\
-? x
- 
+[2
+
+] [3] (./report.aux) ) 
 Here is how much of TeX's memory you used:
- 909 strings out of 493611
- 10285 string characters out of 3142449
- 61032 words of memory out of 3000000
+ 911 strings out of 493611
+ 10307 string characters out of 3142449
+ 63032 words of memory out of 3000000
  4275 multiletter control sequences out of 15000+200000
  10007 words of font info for 36 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 27i,7n,20p,223b,189s stack positions out of 5000i,500n,10000p,200000b,50000s
-Output written on report.dvi (2 pages, 552 bytes).
+ 27i,7n,20p,223b,191s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on report.dvi (4 pages, 3504 bytes).
