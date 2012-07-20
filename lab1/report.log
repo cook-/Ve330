@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.6.6)  20 JUL 2012 09:54
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.6.6)  20 JUL 2012 09:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -127,60 +127,61 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
- [1
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--88
+
+ []
+
+[1
 
 {/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 73--88
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--88
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--88
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--88
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--88
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--88
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--88
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--88
-
- []
-
-[1] [2]
+[2]
 Underfull \hbox (badness 10000) in paragraph at lines 90--91
 
  []
 
 [3] (./report.aux) ) 
 Here is how much of TeX's memory you used:
- 913 strings out of 493610
- 10312 string characters out of 3142426
+ 907 strings out of 493610
+ 10239 string characters out of 3142426
  68032 words of memory out of 3000000
- 4275 multiletter control sequences out of 15000+200000
- 9709 words of font info for 35 fonts, out of 3000000 for 9000
+ 4271 multiletter control sequences out of 15000+200000
+ 8571 words of font info for 31 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
  27i,7n,20p,648b,193s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsf
@@ -189,13 +190,11 @@ nts/cm/cmbx12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmmi10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmmi8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr17.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cms
-y10.pfb>
-Output written on report.pdf (4 pages, 95296 bytes).
+/cmsy10.pfb>
+Output written on report.pdf (3 pages, 75570 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
+ 38 PDF objects out of 1000 (max. 8388607)
+ 26 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
