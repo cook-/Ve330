@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2012.6.6)  10 AUG 2012 16:15
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2012.6.6)  10 AUG 2012 16:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -229,7 +229,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 112--113
 
  []
 
-[3] [4] [5] [6] (./report.aux) ) 
+[3] [4] [5]
+Overfull \hbox (4.34613pt too wide) in paragraph at lines 114--115
+[]\OT1/cmr/m/n/10.95 From the "Fig-ure 8-10", at 2GHz, $\OML/cmm/m/it/10.95 dB\
+OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 S\OT1/cmr/m/n/10.95 12) = 3$, $\OML/cmm/
+m/it/10.95 dB\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 S\OT1/cmr/m/n/10.95 13) = 
+3$ and $\OML/cmm/m/it/10.95 dB\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 S\OT1/cmr
+/m/n/10.95 14) =
+ []
+
+[6] (./report.aux) ) 
 Here is how much of TeX's memory you used:
  1290 strings out of 494123
  15224 string characters out of 3151762
