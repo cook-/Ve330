@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2012.6.6)  10 AUG 2012 16:05
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2012.6.6)  10 AUG 2012 16:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -232,19 +232,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 112--113
 [3] [4] [5]
 File: S12.png Graphic file (type eps)
  <S12.png>
-Overfull \hbox (180.0pt too wide) in paragraph at lines 118--119
+Overfull \hbox (71.9989pt too wide) in paragraph at lines 118--119
  [][] 
  []
 
 File: S13.png Graphic file (type eps)
 <S13.png>
-Overfull \hbox (180.0pt too wide) in paragraph at lines 124--125
+Overfull \hbox (71.9989pt too wide) in paragraph at lines 124--125
  [][] 
  []
 
 File: S14.png Graphic file (type eps)
 <S14.png>
-Overfull \hbox (180.0pt too wide) in paragraph at lines 130--131
+Overfull \hbox (71.9989pt too wide) in paragraph at lines 130--131
  [][] 
  []
 
