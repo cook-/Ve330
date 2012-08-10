@@ -223,8 +223,8 @@ File: simul1.eps Graphic file (type eps)
 <simul1.eps>
 File: simul2.eps Graphic file (type eps)
  <simul2.eps>
-File: final.eps Graphic file (type eps)
- <final.eps> [3] [4] [5] (./report.aux) ) 
+File: final.png Graphic file (type eps)
+ <final.png> [3] [4] [5] (./report.aux) ) 
 Here is how much of TeX's memory you used:
  1290 strings out of 494123
  15224 string characters out of 3151762
@@ -234,5 +234,4 @@ Here is how much of TeX's memory you used:
  1018 hyphenation exceptions out of 8191
  27i,7n,20p,661b,249s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Error 256 (driver return code) generating output;
-file report.pdf may not be valid.
+Output written on report.pdf (6 pages).
