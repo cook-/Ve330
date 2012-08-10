@@ -225,19 +225,20 @@ File: simul2.eps Graphic file (type eps)
  <simul2.eps>
 File: final.png Graphic file (type eps)
  <final.png>
-! Misplaced alignment tab character &.
-<argument> Data&
-                 Analysis
-l.110 \section*{Data& Analysis}
-                               
-? x
- 
+File: s12.jpg Graphic file (type eps)
+ <s12.jpg> [3] [4] [5]
+File: s13.jpg Graphic file (type eps)
+ <s13.jpg>
+File: s14.jpg Graphic file (type eps)
+
+<s14.jpg> [6] [7] (./report.aux) ) 
 Here is how much of TeX's memory you used:
- 1287 strings out of 494123
- 15196 string characters out of 3151762
+ 1297 strings out of 494123
+ 15270 string characters out of 3151762
  70979 words of memory out of 3000000
- 4578 multiletter control sequences out of 15000+200000
+ 4582 multiletter control sequences out of 15000+200000
  9094 words of font info for 33 fonts, out of 3000000 for 9000
  1018 hyphenation exceptions out of 8191
- 27i,7n,20p,661b,249s stack positions out of 5000i,500n,10000p,200000b,50000s
-Output written on report.pdf (3 pages).
+ 27i,7n,20p,661b,253s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on report.pdf (8 pages).
