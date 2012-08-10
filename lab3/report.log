@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2012.6.6)  10 AUG 2012 12:58
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2012.6.6)  10 AUG 2012 13:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -184,22 +184,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--55
 
  []
 
-File: 2.3.png Graphic file (type QTm)
-<use  "2.3.png" >
-File: 2.4.png Graphic file (type QTm)
- <use  "2.4.png" >
+File: 2.2.png Graphic file (type QTm)
+<use  "2.2.png" >
+File: rat-race-phase.eps Graphic file (type eps)
+ <rat-race-phase.eps>
 File: 2.5.png Graphic file (type QTm)
  <use  "2.5.png" >
-File: 2.6.png Graphic file (type QTm)
- <use  "2.6.png" >
-[1] [2] (./report.aux) ) 
+File: branch-line-phase.eps Graphic file (type eps)
+
+<branch-line-phase.eps> [1] [2] (./report.aux) ) 
 Here is how much of TeX's memory you used:
- 1285 strings out of 494123
- 15142 string characters out of 3151762
+ 1284 strings out of 494123
+ 15166 string characters out of 3151762
  70979 words of memory out of 3000000
- 4578 multiletter control sequences out of 15000+200000
+ 4576 multiletter control sequences out of 15000+200000
  9094 words of font info for 33 fonts, out of 3000000 for 9000
  1018 hyphenation exceptions out of 8191
- 27i,7n,20p,659b,218s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,7n,20p,659b,253s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on report.pdf (3 pages).
