@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2012.6.6)  10 AUG 2012 16:06
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (TeX Live 2011) (format=xelatex 2012.6.6)  10 AUG 2012 16:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -229,33 +229,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 112--113
 
  []
 
-[3] [4] [5]
-File: S12.png Graphic file (type eps)
- <S12.png>
-Overfull \hbox (71.9989pt too wide) in paragraph at lines 118--119
- [][] 
- []
-
-File: S13.png Graphic file (type eps)
-<S13.png>
-Overfull \hbox (71.9989pt too wide) in paragraph at lines 124--125
- [][] 
- []
-
-File: S14.png Graphic file (type eps)
-<S14.png>
-Overfull \hbox (71.9989pt too wide) in paragraph at lines 130--131
- [][] 
- []
-
-[6] [7] [8] (./report.aux) ) 
+[3] [4] [5] [6] (./report.aux) ) 
 Here is how much of TeX's memory you used:
- 1296 strings out of 494123
- 15266 string characters out of 3151762
+ 1290 strings out of 494123
+ 15224 string characters out of 3151762
  70979 words of memory out of 3000000
- 4582 multiletter control sequences out of 15000+200000
+ 4579 multiletter control sequences out of 15000+200000
  9094 words of font info for 33 fonts, out of 3000000 for 9000
  1018 hyphenation exceptions out of 8191
  27i,7n,20p,661b,249s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on report.pdf (9 pages).
+Output written on report.pdf (7 pages).
