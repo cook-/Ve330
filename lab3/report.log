@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=latex 2012.6.6)  10 AUG 2012 10:53
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=latex 2012.6.6)  10 AUG 2012 11:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -141,7 +141,7 @@ Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
 \epsfxsize=\dimen127
 \epsfysize=\dimen128
 )
-No file report.aux.
+(./report.aux)
 \openout1 = `report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
@@ -156,16 +156,43 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
-[1
+ [1
 
-] [1] (./report.aux) ) 
+]
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+
+ []
+
+Missing character: There is no Î in font cmr10!
+Missing character: There is no » in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+
+ []
+
+[1] (./report.aux) ) 
 Here is how much of TeX's memory you used:
- 1238 strings out of 493611
- 14619 string characters out of 3142449
- 66283 words of memory out of 3000000
- 4584 multiletter control sequences out of 15000+200000
- 8489 words of font info for 31 fonts, out of 3000000 for 9000
+ 1243 strings out of 493611
+ 14680 string characters out of 3142449
+ 70283 words of memory out of 3000000
+ 4586 multiletter control sequences out of 15000+200000
+ 9094 words of font info for 33 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 27i,7n,20p,223b,179s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,7n,20p,805b,179s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on report.dvi (2 pages, 1008 bytes).
+Output written on report.dvi (2 pages, 3788 bytes).
