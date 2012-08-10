@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=latex 2012.6.6)  10 AUG 2012 11:36
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=latex 2012.6.6)  10 AUG 2012 11:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -183,23 +183,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--54
 
  []
 
+File: 2_3.eps Graphic file (type eps)
+<2_3.eps>
 
-! LaTeX Error: Cannot determine size of graphic in 2_3.png (no BoundingBox).
+! LaTeX Error: Cannot determine size of graphic in 2.4.png (no BoundingBox).
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...ludegraphics[width=0.5\textwidth]{2_3.png}
+l.65 ...ludegraphics[width=0.5\textwidth]{2.4.png}
                                                   
 ? x
  
 Here is how much of TeX's memory you used:
- 1245 strings out of 493611
- 14847 string characters out of 3142449
+ 1248 strings out of 493611
+ 14867 string characters out of 3142449
  70283 words of memory out of 3000000
- 4587 multiletter control sequences out of 15000+200000
+ 4588 multiletter control sequences out of 15000+200000
  9094 words of font info for 33 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 27i,7n,20p,1410b,262s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,7n,20p,954b,262s stack positions out of 5000i,500n,10000p,200000b,50000s
 Output written on report.dvi (1 page, 392 bytes).
